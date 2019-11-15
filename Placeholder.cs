@@ -45,4 +45,25 @@ namespace DatastructuresandAlgorithms
             val2 = temp;
         }
     }
+
+    /*
+        You can also create Generic Classes as well. The class definition will contain a generic type placeholder, T,
+        after the class name: Node<T>
+        Any time the class is referenced, you have to pass in the type placeholder:
+    */
+    public class Node<T>
+    {
+        T data;
+        Node<T> link;
+        public Node(T data, Node<T> link)
+        {
+            this.data = data;
+            this.link = link;
+        }
+
+        // Implementing this class: 
+
+        Node<string> node1 = new Node<string>("Joe", null);
+        Node<string> node2 = new Node<string>("Taylor", node1);
+    }
 }
