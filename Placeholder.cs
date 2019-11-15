@@ -64,6 +64,6 @@ namespace DatastructuresandAlgorithms
         // Implementing this class: 
 
         Node<string> node1 = new Node<string>("Joe", null);
-        Node<string> node2 = new Node<string>("Taylor", node1);
+        //Node<string> node2 = new Node<string>("Taylor", link: node1);
     }
 }
