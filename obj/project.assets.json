@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jzagorski\\Documents\\CodeFiles\\DataStructuresAlgorithms\\DataStructuresAlgorithms-1\\dataalgo.csproj",
+      "projectUniqueName": "C:\\Users\\jzagorski\\Documents\\CodeFiles\\DataStructuresAlgorithms-1\\dataalgo.csproj",
       "projectName": "dataalgo",
-      "projectPath": "C:\\Users\\jzagorski\\Documents\\CodeFiles\\DataStructuresAlgorithms\\DataStructuresAlgorithms-1\\dataalgo.csproj",
+      "projectPath": "C:\\Users\\jzagorski\\Documents\\CodeFiles\\DataStructuresAlgorithms-1\\dataalgo.csproj",
       "packagesPath": "C:\\Users\\jzagorski\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jzagorski\\Documents\\CodeFiles\\DataStructuresAlgorithms\\DataStructuresAlgorithms-1\\obj\\",
+      "outputPath": "C:\\Users\\jzagorski\\Documents\\CodeFiles\\DataStructuresAlgorithms-1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
