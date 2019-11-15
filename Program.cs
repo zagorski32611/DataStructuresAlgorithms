@@ -15,6 +15,7 @@ namespace DatastructuresandAlgorithms
             int[] x = new int[6] { 1, 2, 3, 4, 5, 6 };
 
             TimingTest.DisplayNums(x);
+            TimingTest.measureTime();
         }
     }
 }

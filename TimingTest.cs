@@ -18,7 +18,17 @@ namespace DatastructuresandAlgorithms
                 Console.WriteLine($"{i}");
             }
         }
+        public static TimeSpan measureTime()
+        {
+            DateTime startTime;
+            TimeSpan endTime;
 
+            startTime = DateTime.Now;
+            endTime = DateTime.Now.Subtract(startTime);
+
+            Console.WriteLine($"{endTime}");
+
+            return endTime;
+        }
     }
-
 }
