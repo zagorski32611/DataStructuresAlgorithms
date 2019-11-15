@@ -686,28 +686,30 @@
     ]
   },
   "packageFolders": {
-    "/home/joe/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\jzagorski\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/joe/development/netcore/dataalgo/dataalgo.csproj",
+      "projectUniqueName": "C:\\Users\\jzagorski\\Documents\\CodeFiles\\DataStructuresAlgorithms\\DataStructuresAlgorithms-1\\dataalgo.csproj",
       "projectName": "dataalgo",
-      "projectPath": "/home/joe/development/netcore/dataalgo/dataalgo.csproj",
-      "packagesPath": "/home/joe/.nuget/packages/",
-      "outputPath": "/home/joe/development/netcore/dataalgo/obj/",
+      "projectPath": "C:\\Users\\jzagorski\\Documents\\CodeFiles\\DataStructuresAlgorithms\\DataStructuresAlgorithms-1\\dataalgo.csproj",
+      "packagesPath": "C:\\Users\\jzagorski\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jzagorski\\Documents\\CodeFiles\\DataStructuresAlgorithms\\DataStructuresAlgorithms-1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/joe/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\jzagorski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

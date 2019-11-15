@@ -7,7 +7,7 @@ namespace DatastructuresandAlgorithms
         static void Main(string[] args)
         {
             // Chapter 1 Part 1
-            //CustomCollection.usingCollection();
+            CustomCollection.usingCollection();
             // Chapter 1 Part 2
             PlaceholderDataType.place_and_swap();
         }
