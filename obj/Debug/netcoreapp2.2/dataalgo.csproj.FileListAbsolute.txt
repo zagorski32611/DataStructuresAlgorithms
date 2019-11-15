@@ -1,0 +1,11 @@
+/home/joe/development/netcore/dataalgo/obj/Debug/netcoreapp2.2/dataalgo.csprojAssemblyReference.cache
+/home/joe/development/netcore/dataalgo/obj/Debug/netcoreapp2.2/dataalgo.csproj.CoreCompileInputs.cache
+/home/joe/development/netcore/dataalgo/obj/Debug/netcoreapp2.2/dataalgo.AssemblyInfoInputs.cache
+/home/joe/development/netcore/dataalgo/obj/Debug/netcoreapp2.2/dataalgo.AssemblyInfo.cs
+/home/joe/development/netcore/dataalgo/bin/Debug/netcoreapp2.2/dataalgo.deps.json
+/home/joe/development/netcore/dataalgo/bin/Debug/netcoreapp2.2/dataalgo.runtimeconfig.json
+/home/joe/development/netcore/dataalgo/bin/Debug/netcoreapp2.2/dataalgo.runtimeconfig.dev.json
+/home/joe/development/netcore/dataalgo/bin/Debug/netcoreapp2.2/dataalgo.dll
+/home/joe/development/netcore/dataalgo/bin/Debug/netcoreapp2.2/dataalgo.pdb
+/home/joe/development/netcore/dataalgo/obj/Debug/netcoreapp2.2/dataalgo.dll
+/home/joe/development/netcore/dataalgo/obj/Debug/netcoreapp2.2/dataalgo.pdb
