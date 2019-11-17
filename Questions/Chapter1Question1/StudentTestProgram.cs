@@ -8,16 +8,16 @@ namespace DatastructuresandAlgorithms
     {
         public StudentTestProgram()
         {
-
+            Student student = new Student(student_name: "Joe", s_score: 96.5, test_number: 12);
+            
         }
-
     }
 
     public class StudentCollection : CollectionBase
     {
-        public void Add(Object name, Object test_number)
+        public void Add(Object name, Object test_number, Object score)
         {
-            //InnerList.Add(name, test_number);
+        
         }
     }
 
