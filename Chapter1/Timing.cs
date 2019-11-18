@@ -8,6 +8,7 @@ namespace DatastructuresandAlgorithms
         TimeSpan startingTime;
         TimeSpan duration;
 
+
         public Timing()
         {
             startingTime = new TimeSpan(0);

@@ -11,7 +11,7 @@ namespace DatastructuresandAlgorithms
         {
             time.StartTime();
             CustomCollection collect = new CustomCollection();
-            for (int i = 0; i <= 1000; i++)
+            for (int i = 0; i <= 100000000; i++)
             {
                 collect.Add(i);
             }
@@ -23,7 +23,7 @@ namespace DatastructuresandAlgorithms
         public TimeSpan ArrayListTime()
         {
             time.StartTime();
-            for (int i = 0; i <= 1000; i++)
+            for (int i = 0; i <= 100000000; i++)
             {
                 ArrayList array = new ArrayList();
                 array.Add(i);
