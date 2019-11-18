@@ -11,14 +11,14 @@ namespace DatastructuresandAlgorithms
             InnerList.Add(item);
         }
 
-        public void Remove(Object item)
+        public void Remove(object item)
         {
             InnerList.Remove(item);
         }
 
         public new int Count()
         {
-           return InnerList.Count;
+            return InnerList.Count;
         }
 
         public new void Clear()
@@ -33,7 +33,7 @@ namespace DatastructuresandAlgorithms
             names.Add("Falkor");
             names.Add("Pickels");
 
-            foreach(object name in names)
+            foreach (object name in names)
             {
                 Console.WriteLine($"{name}");
             }

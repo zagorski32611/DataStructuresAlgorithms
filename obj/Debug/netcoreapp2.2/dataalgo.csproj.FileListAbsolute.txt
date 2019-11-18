@@ -31,3 +31,14 @@ c:\Users\jzagorski\Documents\CodeFiles\DataStructuresAlgorithms-1\obj\Debug\netc
 c:\Users\jzagorski\Documents\CodeFiles\DataStructuresAlgorithms-1\obj\Debug\netcoreapp2.2\dataalgo.AssemblyInfo.cs
 c:\Users\jzagorski\Documents\CodeFiles\DataStructuresAlgorithms-1\obj\Debug\netcoreapp2.2\dataalgo.dll
 c:\Users\jzagorski\Documents\CodeFiles\DataStructuresAlgorithms-1\obj\Debug\netcoreapp2.2\dataalgo.pdb
+C:\Users\jzagorski\Documents\_CodeFiles\DataStructuresandAlgorithms\DataStructuresAlgorithms\bin\Debug\netcoreapp2.2\dataalgo.deps.json
+C:\Users\jzagorski\Documents\_CodeFiles\DataStructuresandAlgorithms\DataStructuresAlgorithms\bin\Debug\netcoreapp2.2\dataalgo.runtimeconfig.json
+C:\Users\jzagorski\Documents\_CodeFiles\DataStructuresandAlgorithms\DataStructuresAlgorithms\bin\Debug\netcoreapp2.2\dataalgo.runtimeconfig.dev.json
+c:\Users\jzagorski\Documents\_CodeFiles\DataStructuresandAlgorithms\DataStructuresAlgorithms\bin\Debug\netcoreapp2.2\dataalgo.dll
+c:\Users\jzagorski\Documents\_CodeFiles\DataStructuresandAlgorithms\DataStructuresAlgorithms\bin\Debug\netcoreapp2.2\dataalgo.pdb
+c:\Users\jzagorski\Documents\_CodeFiles\DataStructuresandAlgorithms\DataStructuresAlgorithms\obj\Debug\netcoreapp2.2\dataalgo.csprojAssemblyReference.cache
+c:\Users\jzagorski\Documents\_CodeFiles\DataStructuresandAlgorithms\DataStructuresAlgorithms\obj\Debug\netcoreapp2.2\dataalgo.csproj.CoreCompileInputs.cache
+c:\Users\jzagorski\Documents\_CodeFiles\DataStructuresandAlgorithms\DataStructuresAlgorithms\obj\Debug\netcoreapp2.2\dataalgo.AssemblyInfoInputs.cache
+c:\Users\jzagorski\Documents\_CodeFiles\DataStructuresandAlgorithms\DataStructuresAlgorithms\obj\Debug\netcoreapp2.2\dataalgo.AssemblyInfo.cs
+c:\Users\jzagorski\Documents\_CodeFiles\DataStructuresandAlgorithms\DataStructuresAlgorithms\obj\Debug\netcoreapp2.2\dataalgo.dll
+c:\Users\jzagorski\Documents\_CodeFiles\DataStructuresandAlgorithms\DataStructuresAlgorithms\obj\Debug\netcoreapp2.2\dataalgo.pdb

@@ -18,7 +18,7 @@ namespace DatastructuresandAlgorithms
 
         public new int Count()
         {
-           return InnerList.Count;
+            return InnerList.Count;
         }
 
         public new void Clear()
@@ -36,7 +36,7 @@ namespace DatastructuresandAlgorithms
         public object Contains(object item)
         {
             var search = SearchFunction(item);
-            if(search == item)
+            if (search == item)
             {
                 return search;
             }
@@ -48,10 +48,10 @@ namespace DatastructuresandAlgorithms
 
         public object IndexOf(object item)
         {
-            var search = SearchFunction(item);
-            if (search == item)
+            var searchresult = SearchFunction(item);
+            if (searchresult == item)
             {
-                return search;
+                return searchresult;
             }
             else
             {
@@ -71,7 +71,7 @@ namespace DatastructuresandAlgorithms
             for (int i = 0; i < InnerList.Count; i++)
             {
                 var x = InnerList[i];
-                if( item == x )
+                if (item == x)
                 {
                     return InnerList.IndexOf(x);
                 }
