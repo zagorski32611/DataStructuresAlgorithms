@@ -38,18 +38,14 @@ namespace DatastructuresandAlgorithms
 
 
 /*
-
-            int[] nums = new int[10000];
-            BuildArray(nums);
-            Timing timeObject = new Timing();
-
-            timeObject.StartTime();
-            timeObject.StopTime();
-
-            var results = timeObject.Result();
-
-            Console.WriteLine($"Total Time, .NET: {results.TotalMilliseconds} milliseconds");
-            Console.WriteLine($"Total Time, .NET: {results.TotalSeconds} seconds");
-            Console.WriteLine($"Total Time, .NET: {results.Ticks} ticks lol");
-            return true;
-            */
+    int[] nums = new int[10000];
+    BuildArray(nums);
+    Timing timeObject = new Timing();
+    timeObject.StartTime();
+    timeObject.StopTime();
+    var results = timeObject.Result();
+    Console.WriteLine($"Total Time, .NET: {results.TotalMilliseconds} milliseconds");
+    Console.WriteLine($"Total Time, .NET: {results.TotalSeconds} seconds");
+    Console.WriteLine($"Total Time, .NET: {results.Ticks} ticks lol");
+    return true;
+*/
