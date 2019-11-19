@@ -56,11 +56,16 @@ namespace DatastructuresandAlgorithms
             {
                 nums.Insert((int)(rnd.NextDouble() * 100));
             }
+            
+            Console.WriteLine("Before Sorting:");
+            nums.DisplayElements();
+
+            Console.WriteLine("During Sorting:");
             nums.BubbleSort();
 
-            Console.WriteLine($"{nums}");
-
+            Console.WriteLine("After Dorting:");
             nums.DisplayElements();
+            
         }
 
         public void BubbleSort()
@@ -77,7 +82,10 @@ namespace DatastructuresandAlgorithms
                         arr[inner + 1] = temp;
                     }
                 }
+                this.DisplayElements();
             }
         }
+
+        
     }
 }
