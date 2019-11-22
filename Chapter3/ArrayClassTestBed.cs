@@ -58,32 +58,32 @@ namespace DatastructuresandAlgorithms
             Console.WriteLine("After Bubble Sorting:");
             nums.DisplayElements();
 
-            
+            CArray nums2 = new CArray(5);
             for (int i = 0; i < 5; i++)
             {
-                nums.Insert((int)(rnd.NextDouble() * 100));
+                nums2.Insert((int)(rnd.NextDouble() * 100));
             }
 
 
             Console.WriteLine("New array:");
-            nums.DisplayElements();
+            nums2.DisplayElements();
 
             Console.WriteLine("Selection Sort:");
-            nums.SelectionSort();
-            nums.DisplayElements();
+            nums2.SelectionSort();
+            nums2.DisplayElements();
+
+            CArray nums3 = new CArray(5);
 
             for (int i = 0; i < 5; i++)
             {
-                nums.Insert((int)(rnd.NextDouble() * 100));
+                nums3.Insert((int)(rnd.NextDouble() * 100));
             }
             Console.WriteLine("New Array:");
-            nums.DisplayElements();
+            nums3.DisplayElements();
 
             Console.WriteLine("Insertion Sort:");
-            nums.InsertionSort();
-            nums.DisplayElements();
-
-
+            nums3.InsertionSort();
+            nums3.DisplayElements();
         }
 
         public void BubbleSort()
